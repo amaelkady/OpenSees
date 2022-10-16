@@ -41,7 +41,7 @@ OPS_IMKPinching()
 {
 	if (numIMKPinchingMaterials == 0) {
 		numIMKPinchingMaterials++;
-		OPS_Error("IMK with Pinched Response - Code by AE_KI (Oct22)\n", 1);
+		OPS_Error("IMK with Pinched Response - AE-KI (Oct22)\n", 1);
 	}
 
 	// Pointer to a uniaxial material that will be returned
